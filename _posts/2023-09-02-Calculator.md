@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: JS Calculator 
 description: Here is my calculator. Please try it out!
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 type: hacks
 ---
 
