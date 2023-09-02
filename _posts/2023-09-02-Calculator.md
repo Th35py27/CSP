@@ -1,18 +1,17 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
-title: JS Calculator 
-description: Here is my calculator. Please try it out!
+title: JS Calculator
+description: What I learnt for this week
 courses: { compsci: {week: 2} }
 type: hacks
 ---
-
 <!-- 
 Hack 0: Right justify result
 Hack 1: Test conditions on small, big, and decimal numbers, report on findings. Fix issues.
 Hack 2: Add the common math operation that is missing from calculator
-Hack 3: Implement 1 number operation (ie SQRT) 
+/home/nandanv/vscode/CSP/assetsHack 3: Implement 1 number operation (ie SQRT) 
 -->
 
 <!-- 
