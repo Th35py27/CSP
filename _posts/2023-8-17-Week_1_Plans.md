@@ -2,10 +2,11 @@
 toc: true
 comments: true
 layout: post
-title: Plan for Week 1
-description: Showing my hacks!
-courses: { compsci: {week: 1} }
+title: Plan for Week 11
+description: Final Plan for this trimester
+courses: { compsci: {week: 11} }
 type: plans
 ---
 
-<p>My plan for this week is to get my website running and my homepage decorated to make it look good. This will also tell me whether or not my website is working and I will fix any issues on the way.</p>
+<p>My plan is to get the recommendation system in place with my other frontend team members, Remy and Arnav. As we don
+t have much knowledge on Javascript</p>
