@@ -68,3 +68,5 @@ I picked the correct answer of B, but I picked C instead of D. D is correct beca
 
 I picked C and D and turns out it is A and B. I misread the question and it is A because birch appears twice and then it will not return the intended value of 2 because it is repeated. Then I realized what the question was asking and then I finally understood my mistake. 
 
+This is what I've learnt so far
+
