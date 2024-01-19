@@ -20,7 +20,12 @@ Unit4:
   start: 13
   end: 14
 Unit5:
-  title: First 2 weeks of Trimester 2
+  title: Mid weeks of Tri 2
   description: Learn new things before Tri 2 ends
   start: 15
   end: 18
+Unit6:
+  title: CPT Work
+  description: CPT Work Week 
+  start: 19
+  end: 22
