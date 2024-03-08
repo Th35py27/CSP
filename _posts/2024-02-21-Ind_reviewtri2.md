@@ -14,7 +14,7 @@ https://tdwolff.github.io/NAVTFrontend/2024/01/19/Ideation_B.html
 
 CPT Requirements: https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment
 
-## 92 or better in all classes:
+## 92 or better in the class:
 
 Ended with 92 in the class. Will put picture soon
 
@@ -42,4 +42,5 @@ https://github.com/Th35py27/AtlasIndexSheesh/commit/cf1da5a40556f6ee1928d91bf43b
 ## Progress
 
 MCQ Reflection: https://th35py27.github.io/CSP//2023/12/22/Collegeboard-MCQ.html
+<br>
 CPT Project : https://th35py27.github.io/CSP//2024/02/26/Indi_final_CPT.html
