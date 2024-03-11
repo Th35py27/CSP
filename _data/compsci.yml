@@ -29,5 +29,10 @@ Unit6:
   description: CPT Work Week 
   start: 19
   end: 24
+Unit7:
+  title: Beginning of Tri 3
+  description: Debugging
+  start: 25
+  end: 29
 
 
