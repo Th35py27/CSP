@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: False
+comments: True
 layout: post
 title: Individual Review
 description: Tri 2 completion of stuff
