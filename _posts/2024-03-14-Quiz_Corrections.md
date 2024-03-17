@@ -4,7 +4,7 @@ comments: True
 layout: post
 title: Quiz Corrections
 description: MCQ Collegeboard
-courses: {'compsci': {'week': 25}}
+courses: {'compsci': {'week': 26}}
 type: plans
 ---
 
