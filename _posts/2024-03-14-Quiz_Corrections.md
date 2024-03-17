@@ -8,6 +8,8 @@ courses: {'compsci': {'week': 25}}
 type: plans
 ---
 
+# Score: 29/70 (I only attempted 53 questions)
+
 ## Q3: What are the values of first and second as a result of executing the code segment?
 
 I picked: D
@@ -85,9 +87,86 @@ This one I completely guessed as I wanted to attempt as many questions as possib
 
 ## Q26: Which of the following best describes a challenge involved in using a parallel computing solution?
 
-![alt text](image.png)
+I picked: C
+Correct Answer: A
+
+In parallel computing, it is required that there is an output from the step before. This is important beause parallel means that it works in a "straight line" with using outputs from before and uses this in order to execute and benefit from parallel computing to give a definite answer or single output. 
+
+## Q29: In the flowchart below, assume that j and k are assigned integer values.
+
+I picked: C
+Correct Answer: D
+
+This is C, I did not work through the code in my head, which is something I should work on. I got to 10, but I forgot to do the last step in which I add 3 to the 9 which would get 12. I got a bit lost in the code trying to calculate the code in my head. 
+
+
+## Q32: Which of the following is a true statement about the use of public key encryption in transmitting messages?
 
 I picked: C
 Correct Answer: A
 
-In parallel computing, it is required that 
+Since it is public-key encryption, it is used for the public, so the correct answer would be A as it says open-medium such as social media sites and any informational websites such as Wikipedia for encryption. 
+
+## Q37: Which of the following is NOT a possible value displayed by the program?
+
+I picked: D
+Correct Answer: C
+
+The correct answer is C because every value thats going to be greater than or equal to 10 is going to go through the if statement and not the else statement. Daikon is only displayed if the value is less than 10, which I didn't consider. The if statement in the else statement won't even be running because of the if statement before it. 
+
+## Q38: Which of the following is NOT a possible value displayed by the program?
+I picked: D
+Correct Answer: C
+
+For this one, I need to re-read tri 1 team teach on simulations. Simulations simulate real world environments, and thus don't require or need real world values. D is less suitable for a simulation as it says "real world inputs are needed" which is not practical for a simulation. 
+
+## Q39: A store uses binary numbers to assign a unique binary sequence to each item in its inventory. What is the minimum number of bits required for each binary sequence if the store has between 75 and 100 items in its inventory?
+
+I picked: B
+Correct Answer: C
+
+This one I miscounted the number of bits. I should've realized this, but I wasn't able to and the correct answer was C. Since 2^7 is 128 it allows for more bits to be placed. 
+
+## Q42: What value is displayed as a result of executing the code segment?
+
+I picked: C
+Correct Answer: A
+
+I did not do the math correctly, and since the time was also getting close to being done, I guessed this one and the answer is 3 because there are 3 numbers that have a remainder of one in the list. 
+
+## Q43: Which of the following best exemplifies the use of keylogging to gain unauthorized access to a computer system?
+I picked: C
+Correct Answer: A
+
+I did not know the exact definition of keylogging, but it had to with confidential information and passwords so A would make the most sense as the rest seem like phishing and hacking. 
+
+
+## Q46: A large spreadsheet contains the following information about local restaurants. A sample portion of the spreadsheet is shown below.
+
+I picked: C
+Correct Answer: D
+
+I was able to figure out that II and III are correct, but I is also correct because the filtering process can either go before or after the spreadsheet is sorted. 
+
+## Q47: Same scenario as above.
+
+I picked: B
+Correct Answer: D
+
+It should be an AND logic gate because both of them are true, I was in rush, but I had B and C eliminated and I picked D. Everything was right except the logic gate. 
+
+
+## Q48: Which of the following is an example of an attack using a rogue access point?
+
+I picked: C
+Correct Answer: A
+
+I need to review my vocabulary again because I did not know what a rogue access point is. A rogue access point is where a user can view network traffic on an unsecure network that has no security measures. 
+
+
+I got 49 and 50 correct, 51,52,53 I guessed due to very little time (about 2 minutes left) so I can get more questions done. 
+
+
+
+
+
